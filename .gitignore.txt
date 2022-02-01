@@ -6,3 +6,4 @@ program.py
 pytest.ini
 test_program.py
 .vscode
+ignoreN
