@@ -1,1 +1,7 @@
+# игнорировать файл README.md
+
 README.md
+.gitignore.txt
+program.py
+pytest.ini
+test_program.py
